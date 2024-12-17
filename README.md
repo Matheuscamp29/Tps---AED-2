@@ -9,3 +9,5 @@ Repositorio com os tps feitos em Algoritimo e Estrutura de Dados 2. Nessas ativi
 * mergesort
 * quicksort
 * shellsort
+
+Alem desses metodos de ordenação, utilizamos o arquivo pokemon.csv para ler os dados e manipular-los de acordo.
